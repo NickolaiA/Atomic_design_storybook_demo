@@ -1,0 +1,1 @@
+import{j as n}from"./jsx-runtime-CDt2p4po.js";const o=({className:t,...s})=>{const e=["text-input",t].filter(Boolean).join(" ");return n.jsx("input",{...s,className:e})};o.__docgenInfo={description:"",methods:[],displayName:"TextInput"};export{o as T};
