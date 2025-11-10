@@ -1,0 +1,1 @@
+.thumbnail-demo-row{display:flex;align-items:center;gap:1rem}.thumbnail-demo-gallery{display:grid;grid-template-columns:repeat(4,1fr);gap:1rem;max-width:400px}.thumbnail-demo-responsive{display:grid;grid-template-columns:repeat(auto-fit,minmax(80px,1fr));gap:.5rem;max-width:600px}
